@@ -10,3 +10,6 @@ wai
 
 # area
 songirwadi
+
+# pin
+pin number 412803
